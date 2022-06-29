@@ -1,8 +1,7 @@
 import mongoose from 'mongoose';
 // const dotenv = require("dotenv").config();
 const Connection = async (username, password) => {
-    // const URL = `// mongodb+srv://ankit:ankit12345@cluster0.rrtc5u1.mongodb.net/?retryWrites=true&w=majority
-    // `
+   
 
     try {
         // 1 - Current URL string parser is deprecated, and will be removed in a future version. 
